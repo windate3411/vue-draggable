@@ -76,7 +76,7 @@ export default {
 
 <style lang="scss">
 .moving-card {
-  @apply opacity-50 bg-gray-100 border border-blue-500;
+  border: 1px solid lightblue;
 }
 #app {
   font-family: "Avenir", Helvetica, Arial, sans-serif;
