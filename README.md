@@ -1,4 +1,17 @@
-# draggable
+# A Simple Draggable List
+
+## Description
+30Days challenge-7 A Simple Draggable List
+This project is built with the followings and originally based on this [tutorial](https://www.binarcode.com/blog/building-animated-draggable-interfaces-with-vuejs-and-tailwind/?ref=madewithvuejs.com)
+
++ vue-cli
++ vue-draggable
++ vue-feather-icons
++ tailwind.css
+
+## Project preview
+
+![gif](https://github.com/windate3411/vue-draggable/blob/master/GIF.gif)
 
 ## Project setup
 ```
@@ -10,20 +23,5 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Author
+Danny Wang
